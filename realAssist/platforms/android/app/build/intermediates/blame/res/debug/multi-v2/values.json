@@ -1,0 +1,114 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\info3113mobile\\w4\\camera\\camera\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Documents\\info3113mobile\\w4\\camera\\camera\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 4\\media\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 4\\media\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Documents\\info3113mobile\\camera\\camera\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Documents\\info3113mobile\\camera\\camera\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 4\\camera\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 4\\camera\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 2\\dialogs\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\matttanner\\Documents\\Fanshawe\\Fall 2019\\INFO-3113 Mobile Development\\Week 2\\dialogs\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        }
+    ]
+}
